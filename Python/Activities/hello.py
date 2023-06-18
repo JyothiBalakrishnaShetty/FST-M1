@@ -1,7 +1,7 @@
 print("hello world")
-sravan=100
+jyothi=100
 greetings="hi"
-print(sravan,greetings)
+print(Jyothi,greetings)
 k=10.50
 print(k)
 print(type(k))
